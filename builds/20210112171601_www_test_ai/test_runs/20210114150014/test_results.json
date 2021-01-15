@@ -1,0 +1,785 @@
+{
+    "20210112171601_www_test_ai": {
+        "pass": [
+            {
+                "carbon_log_file_path": null, 
+                "crawl_directory": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014", 
+                "created": "2021-01-14 15:02:31", 
+                "curr_label": null, 
+                "curr_nav_substep": 0, 
+                "curr_step": 7, 
+                "curr_sub_step": 0, 
+                "description": "", 
+                "failures": {}, 
+                "is_deactivated": false, 
+                "log": [
+                    "step:0sub_step:0  found:btn_accept_cookies", 
+                    "step:1sub_step:0  found:mnu_company", 
+                    "step:2sub_step:0  found:mi_about_us", 
+                    "step:6sub_step:0  found:lnk_footer_team", 
+                    "step:7sub_step:0  found:icn_home"
+                ], 
+                "note": "", 
+                "result": "pass", 
+                "step_details": {
+                    "00000": {
+                        "action_info": {
+                            "elem_class": "button", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "button", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tmpZ/button_X1853_Y901_W42_H36.png", 
+                                "enabled": true, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "rYOfvLkXN0tZmckcHN1BNg==\n", 
+                                "height": 36, 
+                                "hier_level": 0, 
+                                "human_hash": "button_X1853_Y901_W42_H36", 
+                                "human_readable": "button_1853_901_42_36_button_00000000000000000660066003c0018003c00660066000000000000000000000_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "051c64a05688309402d2ab331ee6e727", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "sqs-cookie-banner-v2-accept"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "button", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "cssClass": "sqs-cookie-banner-v2-accept", 
+                                        "domLevel": 4, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": true, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "\"Helvetica Neue\", Helvetica, sans-serif", 
+                                        "font-weight": "400", 
+                                        "fontSize": 12, 
+                                        "height": 36, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "button", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 42, 
+                                        "x": 1853, 
+                                        "xPercent": 96.53076171875, 
+                                        "y": 901, 
+                                        "yPercent": 14.003730183400684
+                                    }, 
+                                    "location": {
+                                        "x": 1853, 
+                                        "y": 901
+                                    }, 
+                                    "size": {
+                                        "height": 36, 
+                                        "width": 42
+                                    }, 
+                                    "tag_name": "button", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "button", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 42, 
+                                "x": 1853, 
+                                "y": 901
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00000_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00000_screenshot.png", 
+                        "step_num": 0, 
+                        "test_labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "timing": 8.270416975021362
+                    }, 
+                    "00001": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tmpZ/a_X1310_Y64_W74_H35.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "bCFetwfvVVWSlzL+blvoIQ==\n", 
+                                "height": 35, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1310_Y64_W74_H35", 
+                                "human_readable": "a_1310_64_74_35_a_ffffffffffffffffffffbfff3fff40004000400000002804ff7cffffffffffff_4ad504bf9ac33efca2af3572d5a33188", 
+                                "img_hash": "b7aa24867600a8962ec7a61d15a427e1", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-title preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/company", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0247423s;", 
+                                            "tabindex": "-1"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-title preSlide slideIn", 
+                                        "domLevel": 12, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 35, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Company", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 74, 
+                                        "x": 1310, 
+                                        "xPercent": 68.203125, 
+                                        "y": 64, 
+                                        "yPercent": 0.9920442182157289
+                                    }, 
+                                    "location": {
+                                        "x": 1310, 
+                                        "y": 64
+                                    }, 
+                                    "size": {
+                                        "height": 35, 
+                                        "width": 74
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Company"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Company", 
+                                "text_hash": "4ad504bf9ac33efca2af3572d5a33188", 
+                                "transformed": true, 
+                                "width": 74, 
+                                "x": 1310, 
+                                "y": 64
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mnu_company"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00001_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00001_screenshot.png", 
+                        "step_num": 1, 
+                        "test_labels": [
+                            "mnu_company"
+                        ], 
+                        "timing": 2.674509048461914
+                    }, 
+                    "00002": {
+                        "action_info": {
+                            "elem_class": "div", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "div", 
+                                "clickable": false, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tmpZ/div_X1184_Y107_W200_H26.png", 
+                                "enabled": false, 
+                                "focusable": false, 
+                                "focused": false, 
+                                "hash": "0wFf4RaLA5xVfuJzTvZZjQ==\n", 
+                                "height": 26, 
+                                "hier_level": 0, 
+                                "human_hash": "div_X1184_Y107_W200_H26", 
+                                "human_readable": "div_1184_107_200_26_div_ffffffffffffffffffefffcfffc0ffc0ffc0ffc0ffc0ffc0ffe0ffffffffffff_974295c75fcf6735b522754ed15efcb9", 
+                                "img_hash": "e35538200f5041242746d87b1ce1a908", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "header-nav-folder-item"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "div", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "header-nav-folder-item", 
+                                        "domLevel": 13, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": false, 
+                                            "enabled": false, 
+                                            "focusable": false, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 26, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "div", 
+                                        "text": "About us", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 200, 
+                                        "x": 1184, 
+                                        "xPercent": 61.661783854166664, 
+                                        "y": 107, 
+                                        "yPercent": 1.6649829033260801
+                                    }, 
+                                    "location": {
+                                        "x": 1184, 
+                                        "y": 107
+                                    }, 
+                                    "size": {
+                                        "height": 26, 
+                                        "width": 200
+                                    }, 
+                                    "tag_name": "div", 
+                                    "text": "About us"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "div", 
+                                "text": "About us", 
+                                "text_hash": "974295c75fcf6735b522754ed15efcb9", 
+                                "transformed": true, 
+                                "width": 200, 
+                                "x": 1184, 
+                                "y": 107
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "mi_about_us"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00002_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00002_screenshot.png", 
+                        "step_num": 2, 
+                        "test_labels": [
+                            "mi_about_us"
+                        ], 
+                        "timing": 2.1393229961395264
+                    }, 
+                    "00003": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "no_op", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00003_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00003_screenshot.png", 
+                        "step_num": 3, 
+                        "test_labels": [], 
+                        "timing": 4.356299877166748
+                    }, 
+                    "00004": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00004_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00004_screenshot.png", 
+                        "step_num": 4, 
+                        "test_labels": [], 
+                        "timing": 4.314253091812134
+                    }, 
+                    "00005": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "swipe_up", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [], 
+                        "screenshot_file_name": "iter_00000_step_00005_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00005_screenshot.png", 
+                        "step_num": 5, 
+                        "test_labels": [], 
+                        "timing": 3.8174359798431396
+                    }, 
+                    "00006": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tmpZ/a_X1336_Y825_W43_H25.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "OH8qzFiQBTWDYPgZLcrGLg==\n", 
+                                "height": 25, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X1336_Y825_W43_H25", 
+                                "human_readable": "a_1336_825_43_25_a_0000000000000000a000f00040004ddf567f5efd59fd5b7d4df500000000ffff_c67d9804e69878e56cf779887829a95e", 
+                                "img_hash": "565dcefb2aea8d14aaa485fbbb1e6bd4", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "href": "/team"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(255, 255, 255)", 
+                                        "domLevel": 15, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 17.6, 
+                                        "height": 25, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "Team", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 43, 
+                                        "x": 1336, 
+                                        "xPercent": 69.55729166666667, 
+                                        "y": 825, 
+                                        "yPercent": 33.75894683026585
+                                    }, 
+                                    "location": {
+                                        "x": 1336, 
+                                        "y": 825
+                                    }, 
+                                    "size": {
+                                        "height": 25, 
+                                        "width": 43
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": "Team"
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "Team", 
+                                "text_hash": "c67d9804e69878e56cf779887829a95e", 
+                                "transformed": true, 
+                                "width": 43, 
+                                "x": 1336, 
+                                "y": 825
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "lnk_footer_team"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00006_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00006_screenshot.png", 
+                        "step_num": 6, 
+                        "test_labels": [
+                            "lnk_footer_team"
+                        ], 
+                        "timing": 2.3125569820404053
+                    }, 
+                    "00007": {
+                        "action_info": {
+                            "elem_class": "a", 
+                            "elem_info": {
+                                "behavior": "", 
+                                "checkable": false, 
+                                "class": "a", 
+                                "clickable": true, 
+                                "content-desc": "", 
+                                "elem_shot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tmpZ/a_X77_Y58_W208_H47.png", 
+                                "enabled": false, 
+                                "focusable": true, 
+                                "focused": false, 
+                                "hash": "ug65Txr6IOQTy6nBkaHlig==\n", 
+                                "height": 47, 
+                                "hier_level": 0, 
+                                "human_hash": "a_X77_Y58_W208_H47", 
+                                "human_readable": "a_77_58_208_47_a_ffff5fff1fff0bdc0bdf8889a808f851f815a8150991080118011fff7fffffff_9d4568c009d203ab10e33ea9953a0264", 
+                                "img_hash": "72dc098dc92030f280f30fb51bc6b634", 
+                                "index": -1, 
+                                "internal": {
+                                    "elem_dict": {
+                                        "attributes": {
+                                            "class": "preSlide slideIn", 
+                                            "data-animation-role": "header-element", 
+                                            "href": "/", 
+                                            "style": "transition-timing-function: ease; transition-duration: 0.8s; transition-delay: 0.0162162s;"
+                                        }, 
+                                        "background-color": "rgba(0, 0, 0, 0)", 
+                                        "class": "a", 
+                                        "color": "rgb(0, 0, 0)", 
+                                        "cssClass": "preSlide slideIn", 
+                                        "domLevel": 10, 
+                                        "flags": {
+                                            "checkable": false, 
+                                            "clickable": true, 
+                                            "enabled": false, 
+                                            "focusable": true, 
+                                            "focused": false, 
+                                            "scrollable": false
+                                        }, 
+                                        "font-family": "ibm-plex-sans", 
+                                        "font-weight": "400", 
+                                        "fontSize": 0, 
+                                        "height": 47, 
+                                        "identifier": "", 
+                                        "is-focused": false, 
+                                        "is-hidden": false, 
+                                        "name": "", 
+                                        "tagName": "a", 
+                                        "text": "", 
+                                        "type": "", 
+                                        "value": "", 
+                                        "width": 208, 
+                                        "x": 77, 
+                                        "xPercent": 3.9998372395833335, 
+                                        "y": 58, 
+                                        "yPercent": 2.1135321100917435
+                                    }, 
+                                    "location": {
+                                        "x": 77, 
+                                        "y": 58
+                                    }, 
+                                    "size": {
+                                        "height": 47, 
+                                        "width": 208
+                                    }, 
+                                    "tag_name": "a", 
+                                    "text": ""
+                                }, 
+                                "is_transformed": true, 
+                                "package": "", 
+                                "password": false, 
+                                "resource-id": "", 
+                                "scrollable": false, 
+                                "tag_name": "a", 
+                                "text": "", 
+                                "text_hash": "9d4568c009d203ab10e33ea9953a0264", 
+                                "transformed": true, 
+                                "width": 208, 
+                                "x": 77, 
+                                "y": 58
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "found_all_labels": true, 
+                        "jank": 0.0, 
+                        "matched_grep": null, 
+                        "matched_grep_val": null, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "page_labels": [
+                            "icn_home"
+                        ], 
+                        "screenshot_file_name": "iter_00000_step_00007_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00007_screenshot.png", 
+                        "step_num": 7, 
+                        "test_labels": [
+                            "icn_home"
+                        ], 
+                        "timing": 4.255145072937012
+                    }, 
+                    "00008": {
+                        "action_info": {
+                            "elem_class": "screen", 
+                            "elem_info": {
+                                "class": "screen", 
+                                "hash": "eBZRdxmxJ+FTQLa+aMgrYw==\n", 
+                                "height": 957, 
+                                "hier_level": 0, 
+                                "human_hash": "screen_X0_Y0_W1920_H957", 
+                                "index": -1, 
+                                "is_transformed": true, 
+                                "tag_name": "screen", 
+                                "text": "", 
+                                "width": 1920, 
+                                "x": 0, 
+                                "y": 0
+                            }, 
+                            "gesture": "tap", 
+                            "text": ""
+                        }, 
+                        "cpu": 0.0, 
+                        "jank": 0.0, 
+                        "mem": 0.0, 
+                        "net": 0.0, 
+                        "screenshot_file_name": "iter_00000_step_00008_screenshot.png", 
+                        "screenshot_file_path": "/Users/bot/test_ai/apps/www_test_ai/builds/20210112171601_www_test_ai/test_runs/20210114150014/tests/result_paths/Practice with TM/iter_00000_step_00008_screenshot.png", 
+                        "step_num": 8, 
+                        "timing": 2.065882921218872
+                    }
+                }, 
+                "steps": [
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "btn_accept_cookies"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mnu_company"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "mi_about_us"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "About Us", 
+                        "grep_count": null, 
+                        "input": "", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "verification", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "swipe_up", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "lnk_footer_team"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }, 
+                    {
+                        "continue_on_failure": false, 
+                        "description": "", 
+                        "grep": "", 
+                        "grep_count": null, 
+                        "input": "tap", 
+                        "is_imported": false, 
+                        "label_count": null, 
+                        "labels": [
+                            "icn_home"
+                        ], 
+                        "type": "action", 
+                        "widget": "default"
+                    }
+                ], 
+                "tags": [
+                    "mounts"
+                ], 
+                "temp_id": "ed7a6e07-56ab-11eb-8e6a-787b8ade0f4b", 
+                "title": "Practice with TM", 
+                "use_qlearning_matrix": true
+            }
+        ]
+    }
+}
