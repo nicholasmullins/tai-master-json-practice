@@ -1,0 +1,26 @@
+{
+    "elems": {
+        "iter_00000_step_00000_31_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00001_28_a.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00002_0_div.png": [
+            "mnu_industries"
+        ], 
+        "iter_00000_step_00002_49_a.png": [
+            "mnu_industries"
+        ], 
+        "iter_00000_step_00003_11_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00003_18_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00003_23_a.png": [
+            "lnk_footer_events"
+        ]
+    }, 
+    "screens": {}
+}
