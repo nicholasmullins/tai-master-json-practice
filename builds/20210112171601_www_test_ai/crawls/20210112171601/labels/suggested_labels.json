@@ -1,5 +1,6 @@
 {
     "elems": {
+<<<<<<< HEAD
         "iter_00000_step_00000_0_div.png": {
             "mnu_industries": {
                 "all_scores": {
@@ -12,6 +13,9 @@
         }, 
         "iter_00000_step_00000_28_a.png": {
             "lnk_contact": {
+=======
+        "iter_00000_step_00000_14_a.png": {
+            "icn_home": {
                 "all_scores": {
                     "hash_based": 1.0
                 }, 
@@ -19,8 +23,23 @@
                 "source": "hash_based"
             }
         }, 
+        "iter_00000_step_00000_27_a.png": {
+            "mnu_company": {
+>>>>>>> dacbf4fc9de9a4ee010d04b615a9191518b9f260
+                "all_scores": {
+                    "hash_based": 1.0
+                }, 
+                "score": 1.0, 
+                "source": "hash_based"
+            }
+        }, 
+<<<<<<< HEAD
         "iter_00000_step_00000_30_a.png": {
             "mnu_industries": {
+=======
+        "iter_00000_step_00000_28_a.png": {
+            "lnk_contact": {
+>>>>>>> dacbf4fc9de9a4ee010d04b615a9191518b9f260
                 "all_scores": {
                     "hash_based": 1.0
                 }, 

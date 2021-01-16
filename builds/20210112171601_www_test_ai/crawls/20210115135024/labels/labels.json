@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_32_a.png": [
+            "lnk_contact"
+        ], 
+        "iter_00000_step_00005_47_button.png": [
+            "btn_accept_cookies"
+        ], 
+        "iter_00000_step_00006_11_a.png": [
+            "icn_footer_youtube"
+        ], 
+        "iter_00000_step_00006_18_a.png": [
+            "lnk_footer_about_us"
+        ], 
+        "iter_00000_step_00006_23_a.png": [
+            "lnk_footer_events"
+        ]
+    }, 
+    "screens": {}
+}
